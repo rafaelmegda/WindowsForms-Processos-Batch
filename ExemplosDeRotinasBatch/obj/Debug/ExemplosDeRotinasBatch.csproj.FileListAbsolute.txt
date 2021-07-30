@@ -1,0 +1,8 @@
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\ExemplosDeRotinasBatch\ExemplosDeRotinasBatch\bin\Debug\ExemplosDeRotinasBatch.exe.config
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\ExemplosDeRotinasBatch\ExemplosDeRotinasBatch\obj\Debug\ExemplosDeRotinasBatch.FormularioInicial.resources
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\ExemplosDeRotinasBatch\ExemplosDeRotinasBatch\obj\Debug\ExemplosDeRotinasBatch.Properties.Resources.resources
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\ExemplosDeRotinasBatch\ExemplosDeRotinasBatch\obj\Debug\ExemplosDeRotinasBatch.csproj.GenerateResource.Cache
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\ExemplosDeRotinasBatch\ExemplosDeRotinasBatch\bin\Debug\ExemplosDeRotinasBatch.exe
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\ExemplosDeRotinasBatch\ExemplosDeRotinasBatch\bin\Debug\ExemplosDeRotinasBatch.pdb
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\ExemplosDeRotinasBatch\ExemplosDeRotinasBatch\obj\Debug\ExemplosDeRotinasBatch.exe
+C:\Users\Camila\Documents\COISAS RAFAEL\Workspace-codigos\ExemplosDeRotinasBatch\ExemplosDeRotinasBatch\obj\Debug\ExemplosDeRotinasBatch.pdb
